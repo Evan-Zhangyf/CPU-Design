@@ -1,0 +1,33 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/ip/main_memory/main_memory_sim_netlist.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity main_memory_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-307] analyzing entity main_memory_blk_mem_gen_prim_width
+INFO: [VRFC 10-307] analyzing entity main_memory_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-307] analyzing entity main_memory_blk_mem_gen_top
+INFO: [VRFC 10-307] analyzing entity main_memory_blk_mem_gen_v8_3_6_synth
+INFO: [VRFC 10-307] analyzing entity main_memory_blk_mem_gen_v8_3_6
+INFO: [VRFC 10-307] analyzing entity main_memory
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/ip/control_memory/control_memory_sim_netlist.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity control_memory_rom
+INFO: [VRFC 10-307] analyzing entity control_memory_dist_mem_gen_v8_0_11_synth
+INFO: [VRFC 10-307] analyzing entity control_memory_dist_mem_gen_v8_0_11
+INFO: [VRFC 10-307] analyzing entity control_memory
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/AX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AX
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/BR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BR
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/CPU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CPU
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/CU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CU
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/IR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity IR
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/MAR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MAR
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/MBR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MBR
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/new/PC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sim_1/new/CPU_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CPU_sim

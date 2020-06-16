@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu May 28 16:21:19 2020
+# Process ID: 16184
+# Current directory: E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.sim/sim_1/behav/xsim.dir/CPU_sim_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.sim/sim_1/behav/webtalk.log
+# Journal file: E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source E:/COA -notrace
+couldn't read file "E:/COA": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Thu May 28 16:21:19 2020...

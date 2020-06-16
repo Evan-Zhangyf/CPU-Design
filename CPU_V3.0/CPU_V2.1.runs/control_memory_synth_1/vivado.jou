@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu May 28 17:17:52 2020
+# Process ID: 18576
+# Current directory: E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.runs/control_memory_synth_1
+# Command line: vivado.exe -log control_memory.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source control_memory.tcl
+# Log file: E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.runs/control_memory_synth_1/control_memory.vds
+# Journal file: E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.runs/control_memory_synth_1\vivado.jou
+#-----------------------------------------------------------
+source control_memory.tcl -notrace

@@ -1,0 +1,12 @@
+
+*** Running vivado
+    with args -log main_memory.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source main_memory.tcl
+
+
+****** Vivado v2017.2 (64-bit)
+  **** SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+  **** IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+source main_memory.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP main_memory, cache-ID = df482c977626cc8b.

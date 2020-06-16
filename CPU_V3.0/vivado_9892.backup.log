@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed May 27 20:58:43 2020
+# Process ID: 9892
+# Current directory: E:/COA experiments/exam 2/CPU_V2.1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14920 E:\COA experiments\exam 2\CPU_V2.1\CPU_V2.1.xpr
+# Log file: E:/COA experiments/exam 2/CPU_V2.1/vivado.log
+# Journal file: E:/COA experiments/exam 2/CPU_V2.1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.2/data/ip'.
+WARNING: [IP_Flow 19-3664] IP 'main_memory' generated file not found 'e:/COA experiments/exam 2/CPU_V2.1/CPU_V2.1.srcs/sources_1/ip/main_memory/stats.txt'. Please regenerate to continue.
+open_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:10 . Memory (MB): peak = 723.551 ; gain = 15.676
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May 27 20:59:45 2020...

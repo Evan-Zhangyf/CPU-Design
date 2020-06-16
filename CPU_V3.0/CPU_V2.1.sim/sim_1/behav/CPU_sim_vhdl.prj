@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/ip/main_memory/main_memory_sim_netlist.vhdl"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/ip/control_memory/control_memory_sim_netlist.vhdl"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/ALU.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/AX.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/BR.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/CPU.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/CU.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/IR.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/MAR.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/MBR.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sources_1/new/PC.vhd"
+vhdl xil_defaultlib  "../../../CPU_V2.1.srcs/sim_1/new/CPU_sim.vhd"
+
+# Do not sort compile order
+nosort
